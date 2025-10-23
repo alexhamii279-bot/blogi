@@ -1,2 +1,143 @@
 # blogi
 wellness blogs
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Austin Chiropractic Clinic – Back Pain Solutions</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.7;
+      color: #333;
+      background: #f6f9fc;
+    }
+
+    header {
+      background: #026670;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.2rem;
+      margin-bottom: 10px;
+      letter-spacing: 0.5px;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      color: #d7f3f1;
+    }
+
+    main {
+      max-width: 850px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      color: #026670;
+      font-size: 1.5rem;
+      margin-top: 30px;
+    }
+
+    p {
+      margin-top: 10px;
+      font-size: 1rem;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li {
+      background: #e8f5f4;
+      margin: 8px 0;
+      padding: 10px 15px;
+      border-left: 4px solid #026670;
+      border-radius: 6px;
+    }
+
+    footer {
+      background: #014d52;
+      color: #fff;
+      text-align: center;
+      padding: 30px 15px;
+      margin-top: 40px;
+    }
+
+    footer p {
+      margin: 5px 0;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.8rem;
+      }
+      main {
+        padding: 25px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Austin Chiropractic Clinic – Back Pain Solutions</h1>
+    <p>Natural Healing • Better Alignment • Lasting Relief</p>
+  </header>
+
+  <main>
+    <p>
+      Back pain is one of the most common issues affecting people today, often caused by poor posture, long hours of sitting, or physical strain. While medication may offer temporary relief, true healing comes from addressing the root cause — and that’s where chiropractic care makes a difference.
+    </p>
+
+    <h2>Understanding Chiropractic Wellness</h2>
+    <p>
+      Chiropractic wellness focuses on the spine’s alignment and how it influences the entire nervous system. When the spine is misaligned, it can create pressure on nerves, leading to pain, stiffness, or restricted movement. Through gentle spinal adjustments, chiropractors restore proper alignment, relieve tension, and help the body heal naturally.
+    </p>
+
+    <h2>Benefits Beyond Pain Relief</h2>
+    <p>
+      Many patients find that chiropractic care not only reduces pain but also improves posture, flexibility, and overall function. Regular adjustments can ease chronic discomfort, prevent future injuries, and support better mobility — making everyday activities easier and more comfortable.
+    </p>
+
+    <h2>Holistic Wellness</h2>
+    <p>
+      Beyond physical relief, chiropractic care promotes holistic wellness. When the spine and nervous system are in harmony, the body can perform at its best, leading to improved energy levels, better sleep, and reduced stress. It’s not just about fixing pain; it’s about enhancing quality of life.
+    </p>
+
+    <h2>Natural Healing & Long-Term Results</h2>
+    <p>
+      For anyone living with persistent back pain, chiropractic care offers a natural, non-invasive path to recovery. By combining precise adjustments, posture correction, and lifestyle guidance, chiropractors help patients achieve lasting results and long-term comfort.
+    </p>
+
+    <p>
+      Pain-free living is possible — it starts with understanding your spine and choosing care that heals from within. Chiropractic wellness is more than a solution; it’s a foundation for lifelong health and strength.
+    </p>
+
+    <h2>Our Care Centers</h2>
+    <ul>
+      <li>Health and Healing Chiropractic</li>
+      <li>Thrive Spine Center</li>
+      <li>Lonestar Spine &amp; Rehab</li>
+      <li>Lifespring Chiropractic</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p><strong>Lifespring Chiropractic</strong></p>
+    <p>2612 S Lamar Blvd, Austin, TX 78704</p>
+    <p>(512) 400 - 1241 | info@lifespringchiro.com</p>
+  </footer>
+</body>
+</html>
